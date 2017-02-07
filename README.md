@@ -16,5 +16,7 @@ Place 1 per line
 (By default there are 2 in there MEMP and AAPL)
 
 Enter the trade commission fee
+
 Enter the number of shares you have per stock
+
 Enter the price you paid for the stock per share
